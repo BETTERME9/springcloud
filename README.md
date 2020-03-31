@@ -21,5 +21,17 @@
 ---
 
 ### 3、Feign
+
+
+
 #### 3.1、Feign大体执行流程
+
+![](http://assets.processon.com/chart_image/5e8233b6e4b0f4e639bd1cea.png)
+
+
+
+#### 3.2、Feign注解的作用
+
+- @FeignClient注解
+- @EnableFeignClients注解
 
