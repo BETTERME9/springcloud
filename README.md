@@ -35,3 +35,9 @@
 - @FeignClient注解
 - @EnableFeignClients注解
 
+
+
+
+
+### 4、Hystrix
+
